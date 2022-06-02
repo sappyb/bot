@@ -7,7 +7,7 @@ conda create -n yourenvname python=3.7 anaconda
 ```shell
 conda activate yourenvname
 ```
-##3. Run setup
+##3. Run setup 
 ```shell
 pip install -r requirements.txt -e .
 ```
