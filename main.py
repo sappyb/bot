@@ -101,7 +101,7 @@ class Args():
 
 args = Args()
 
-filename = "/home/bhowmik/chatbot/input.txt"
+filename = "./data/input.txt"
 
 lines = []
 with open(filename, "r") as fp:
